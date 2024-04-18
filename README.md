@@ -2,8 +2,6 @@
 
 Application for Storage and Retrieval of Articles and Scientific Journals
 
-The above repository is a semester project by students Michael Barmpas and Dimitris Papamichail, for the Database Systems course of the Department of Electrical and Computer Engineering and Informatics at the University of Patras.
-
 The topic of the project was to create a database that would provide access to scientific journals and articles to users who register with it.
 
 Installation Instructions:
